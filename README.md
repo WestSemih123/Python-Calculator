@@ -1,2 +1,3 @@
-# Python-Calculator
-A calculator built with python
+#Requirements
+
+Python3 and later
