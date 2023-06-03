@@ -1,3 +1,3 @@
-#Requirements
+# Requirements
 
-Python3 and later
+Python3 and later.
